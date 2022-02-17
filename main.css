@@ -1,0 +1,28 @@
+input:invalid{
+	background-color: #CED4DA
+}
+input:focus{
+	background-color: #FFFFFF
+}
+input:valid {
+	background-color: #E8F0FE
+}
+header {
+	padding-bottom: 3em;
+}
+footer {
+	color: white;
+	padding-top: 1em;
+}
+body {
+	background-color: #58AAFF;
+}
+.navbar {
+	margin:0 !important;
+	padding: 0px !important;
+}
+.container {
+	background-color: white;
+	padding: 1em 1em;
+	width: 25%
+}
