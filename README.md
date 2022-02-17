@@ -4,15 +4,15 @@ Adjenda, is a student portal that institutions and individual instructors can pr
 
 Built with
 
-PHP
-XAMPP/MySQL
-Bootstrap
+-PHP
+-XAMPP/MySQL
+-Bootstrap
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Team
 
-Dan Imbimbo
-Jake Breitfeller
-Tristan Somcio
-Kevin Sanchez
+-Dan Imbimbo
+-Jake Breitfeller
+-Tristan Somcio
+-Kevin Sanchez
