@@ -1,0 +1,18 @@
+Adjenda, is a student portal that institutions and individual instructors can provide to their students to better organize and conduct classes and assignments. However, Agenda is capable of being more than just the typical student portal. Adjenda will be loaded with an abundance of quality of life features such as taking attendance, creating polls, and an intuitive calendar system that can help students and instructors conduct and organize their classes and schedules with an unprecedented level of detail just to name a few. Adjenda makes it an emphasis to provide the best user collaboration experience in that students will be able to create groups to collaborate, share documents, share calendar schedules, and communicate with each other. With all of its features Adjenda takes the best of both worlds of online classroom collaboration and an in person educational experience.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Built with
+
+-PHP
+-XAMPP/MySQL
+-Bootstrap
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Team
+
+-Dan Imbimbo
+-Jake Breitfeller
+-Tristan Somcio
+-Kevin Sanchez
